@@ -1,15 +1,2 @@
 Versionining test 1
 
-test2
-
-......MO TEXT......
-
-
-.....MO TEXT 2.....
-
-
-.....mo text 3.....
-
-text 456
-
-123456
